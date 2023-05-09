@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Chicken Invaders.iml
+# Datasource local storage ignored files
+/../../../../../../:\Chicken Invaders Unity\Chicken Invaders\.idea\.idea.Chicken Invaders\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
